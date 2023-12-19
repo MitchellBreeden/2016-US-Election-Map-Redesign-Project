@@ -25,7 +25,7 @@ Objective: Redesign the 2016 US election map to enhance understanding and clarit
 ## Additional Resources
 - `Presentation.mp4`: Video presentation of the project.
 - `Script.R`: R script for data analysis and map generation.
-- `Report.pdf`: Initial project report.
+- `Report.pdf`: Comprehensive project report.
 - `Presentation.pptx`: Project goals, methodology, and results slides.
 
 ## Contact Information
